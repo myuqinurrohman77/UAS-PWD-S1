@@ -128,6 +128,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
             <div class="text-center text-secondary mt-3">
                 Belum memiliki akun? <a href="daftar.php" tabindex="-1">Daftar</a>
             </div>
+            <div class="kembali" style="text-align: center ;"><a href="../index.php">Kembali</a></div>
         </div>
     </div>
     <!-- Libs JS -->

@@ -23,8 +23,7 @@
     <link href="landing-pages/css/tiny-slider.css" rel="stylesheet" />
     <link href="landing-pages/css/gaya.css" rel="stylesheet" />
     <title>
-        Furni Free Bootstrap 5 Template for Furniture and Interior Design Websites
-        by Untree.co
+        Grand Legacy
     </title>
 </head>
 
@@ -55,7 +54,7 @@
 
                 <ul class="custom-navbar-cta navbar-nav mb-2 mb-md-0 ms-5">
                     <li>
-                        <a class="nav-link" href="#"><img src="landing-pages/images/user.svg" /></a>
+                        <a class="nav-link" href="pages/login.php"><img src="landing-pages/images/user.svg" /></a>
                     </li>
                     <!-- <li>
               <a class="nav-link" href="cart.html"
@@ -83,7 +82,7 @@
                         </p>
                         <p>
                             <a href="" class="btn btn-secondary me-2">Berbelanja</a>
-                            <a href="#" class="btn btn-white-outline">Masuk</a>
+                            <a href="pages/login.php" class="btn btn-white-outline">Masuk</a>
                         </p>
                     </div>
                 </div>

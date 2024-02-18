@@ -184,6 +184,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST"){
             </form>
             <div class="text-center text-secondary mt-3">
                 Sudah memiliki akun? <a href="login.php" tabindex="-1">Masuk</a>
+                <div class="kembali" style="text-align: center ;"><a href="login.php">Kembali</a></div>
             </div>
         </div>
     </div>

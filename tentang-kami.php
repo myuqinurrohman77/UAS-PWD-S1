@@ -56,7 +56,7 @@
 
                 <ul class="custom-navbar-cta navbar-nav mb-2 mb-md-0 ms-5">
                     <li>
-                        <a class="nav-link" href="#"><img src="landing-pages/images/user.svg" /></a>
+                        <a class="nav-link" href="pages/login.php"><img src="landing-pages/images/user.svg" /></a>
                     </li>
                     <!-- <li>
               <a class="nav-link" href="cart.html"
@@ -164,7 +164,7 @@
 
                 <div class="col-lg-5">
                     <div class="img-wrap">
-                        <img src="landing-pages/images/why-choose-us-img.jpg" alt="Image" class="img-fluid" />
+                        <img src="landing-pages/images/kenapa-memilih-kami.png" alt="Image" class="img-fluid" />
                     </div>
                 </div>
             </div>
